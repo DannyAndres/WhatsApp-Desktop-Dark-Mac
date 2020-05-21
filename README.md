@@ -1,4 +1,4 @@
-# Whatsapp desktop Darkmode for Mac app
+# Whatsapp Desktop Darkmode for Mac app
 
 ## Requirements
 
