@@ -14,7 +14,7 @@ Open a terminal and go to the file location, then run
 
 > **WARNING**: If you feel weird putting your password on the program, you can always see what the code is doing at every moment by checking whatsappDark.sh file
 
-If the program asks for a password just put it and wait until you see a message with following text
+If the program asks for a password just put it and wait until you see a message with the following text
 
     OK THANKS DONE
 
