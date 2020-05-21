@@ -1,6 +1,5 @@
 # Whatsapp desktop Darkmode for Mac app
 
-----
 ## Instructions
 
 Open a terminal and go to the file location, then run
