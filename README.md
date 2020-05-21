@@ -1,5 +1,11 @@
 # Whatsapp desktop Darkmode for Mac app
 
+## Requirements
+
+This script will need npm installed in order to work
+
+---
+
 ## Instructions
 
 Open a terminal and go to the file location, then run
